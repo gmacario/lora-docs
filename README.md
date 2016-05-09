@@ -14,6 +14,6 @@ Copyright (C) 2016, [Gianpaolo Macario](https://gmacario.github.io/).
 
 lora-shield documentation is licensed under the Creative Commons License Attribution-ShareAlike 4.0 International.
 
-lora-shield code is licensed under the MIT License. See LICENSE for the full license text.
+lora-shield code is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
 
 <!-- EOF -->
