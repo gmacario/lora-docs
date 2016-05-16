@@ -1,6 +1,6 @@
 # lora-shield Documentation
 
-* [LoRA](lora.md)
-* [UDDO NEO](udooneo.md)
+* [LoRa](lora.md)
+* [UDOO NEO](udooneo.md)
 
 <!-- EOF -->
