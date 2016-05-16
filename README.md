@@ -6,7 +6,7 @@
 
 ### See also
 
-* [LoRa(R) Alliance](https://www.lora-alliance.org/)
+* [lora-shield Documentation](docs)
 
 ### Copyright and Licensing
 
