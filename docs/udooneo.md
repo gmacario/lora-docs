@@ -16,7 +16,9 @@ From http://www.udoo.org/forum/threads/how-to-program-the-m4-without-the-arduino
 
 > Binary currently is the current method; need to use udooneo-m4uploader copy binary into memory and start the M4.
 > http://www.udoo.org/forum/threads/how-to-use-m4-processor.3353/#post-16364
- 
 
+>> I know .fw is some sort of binary and i can use udooneo-m4uploader to upload it, but how to generate it? Is .fw a renamed .bin? a renamed .elf? Absolutely no documentation at all on the m4 coprocessor for udoo.
+
+> It is binary, just rename.
 
 <!-- EOF -->
