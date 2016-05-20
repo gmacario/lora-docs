@@ -2,6 +2,23 @@
 
 * [LoRa(R) Alliance](https://www.lora-alliance.org/)
 
+### Resources
+
+* Architecture
+
+@todo
+
+* Devices
+	- [LoRa MAC library in C](http://www.research.ibm.com/labs/zurich/ics/lrsc/lmic.html)
+	- [Semtech's endpoint](https://github.com/Lora-net/LoRaMac-node)
+
+* Gateways
+	- [A DIY low-cost LoRa gateway](http://cpham.perso.univ-pau.fr/LORA/RPIgateway.html)
+	- [Semtech's gateway](https://github.com/Lora-net/lora_gateway)
+
+* Network servers
+	- Open source LoRaWAN servers are a bit scarce. 
+
 ### LoRa Products
 
 * [LoRa Certified Products](https://www.lora-alliance.org/Products/Certified-Products)
@@ -29,5 +46,9 @@
 #### Libelium
 
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
+
+### Case Studies
+
+* [TheThingsNetwork](https://thethingsnetwork.org/)
 
 <!-- EOF -->
