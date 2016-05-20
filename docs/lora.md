@@ -28,6 +28,6 @@
 
 #### Libelium
 
-* http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora
+* [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
 
 <!-- EOF -->
