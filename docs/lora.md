@@ -26,4 +26,8 @@
   - [Farnell italy](http://it.farnell.com/adeunis)
   - [Distrelec Italy](http://www.distrelec.it/manufacturer/adeunis/man_adeunis)
 
+#### Libelium
+
+* http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora
+
 <!-- EOF -->
