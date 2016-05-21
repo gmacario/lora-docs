@@ -53,7 +53,7 @@
 
 * Application Notes
   - [SX127x Reference Design Overview](http://www.semtech.com/apps/filedown/down.php?file=AN1200.19_SX127x_RefDesign_STD.pdf)
-  - [SX1276 MCU Specification](http://www.semtech.com/apps/filedown/down.php?file=an1200_28_lorawan_mcu_specification_v2.pdf)
+  - [AN1200.28 - LoRaWAN MCU Specification and Requirements](http://www.semtech.com/apps/filedown/down.php?file=an1200_28_lorawan_mcu_specification_v2.pdf) (PDF, 3 pages)
 
 
 ## Distributors of LoRa modules
