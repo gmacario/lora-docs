@@ -32,7 +32,7 @@
 
 ## LoRa RF Transceivers
 
-### Semtech SX127x
+### Semtech - SX127x
 
 * http://www.semtech.com/wireless-rf/rf-transceivers/
 
