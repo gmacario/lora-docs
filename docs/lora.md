@@ -39,8 +39,8 @@
 * [Wirless RF Solutions Guide](http://www.semtech.com/images/mediacenter/collateral/ism_sg.pdf) (PDF, 8 pages)
 
 * RF Transceiver Related Articles
-  - [Making the Right Trade-offs for Sensor Networks](http://www.semtech.com/rf-transceivers/right-tradeoffs-sensor-networks.pdf) - by Hardy Schmidbauer, Semtech Corporation (PDF, 7 pages)
-  - [A Practical Implementation of 6LoWPAN for Metropolitan Sized Networks](http://www.semtech.com/rf-transceivers/Practical_MAN-Semtech.pdf)
+  - [Making the Right Trade-offs for Sensor Networks](http://www.semtech.com/rf-transceivers/right-tradeoffs-sensor-networks.pdf) - Hardy Schmidbauer, Semtech Corporation (PDF, 7 pages)
+  - [A Practical Implementation of 6LoWPAN for Metropolitan Sized Networks](http://www.semtech.com/rf-transceivers/Practical_MAN-Semtech.pdf) - Joseph A. Knapp and Nicolas Sornin, Semtech Corporation (PDF, 9 pages)
   - [Semtech's Low-Cost, High-Range RF Transceivers](http://issuu.com/alexeeweb/docs/volume_84_-_simon_blyth)
 
 * More RF Transceiver Information
