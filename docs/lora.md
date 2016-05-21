@@ -2,7 +2,7 @@
 
 * [LoRa(R) Alliance](https://www.lora-alliance.org/)
 
-## LoRa Products
+## LoRa Certified Products
 
 * [LoRa Certified Products](https://www.lora-alliance.org/Products/Certified-Products)
 
@@ -29,6 +29,32 @@
 ### Libelium
 
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
+
+## LoRa RF Transceivers
+
+### Semtech SX127x
+
+* http://www.semtech.com/wireless-rf/rf-transceivers/
+
+* [Wirless RF Solutions Guide](http://www.semtech.com/images/mediacenter/collateral/ism_sg.pdf) (PDF, 8 pages)
+
+* RF Transceiver Related Articles
+  - [Making the Right Trade-offs for Sensor Networks](http://www.semtech.com/rf-transceivers/right-tradeoffs-sensor-networks.pdf)
+  - [A Practical Implementation of 6LoWPAN for Metropolitan Sized Networks](http://www.semtech.com/rf-transceivers/Practical_MAN-Semtech.pdf)
+  - [Semtech's Low-Cost, High-Range RF Transceivers](http://issuu.com/alexeeweb/docs/volume_84_-_simon_blyth)
+
+* More RF Transceiver Information
+  - [ISM Selector Guide](http://www.semtech.com/images/mediacenter/collateral/ism_sg.pdf)
+  - [ISM Band RF Transceiver Application Notes](http://www.semtech.com/wireless-rf/ISM-Application-Notes/)
+  - [RF Design Partners](http://www.semtech.com/wireless-rf/wireless-solutions/)
+  - [LoRa™ RF Product Family](http://www.semtech.com/wireless-rf/lora.html)
+
+* http://www.semtech.com/wireless-rf/rf-transceivers/sx1276/
+
+* Application Notes
+  - [SX127x Reference Design Overview](http://www.semtech.com/apps/filedown/down.php?file=AN1200.19_SX127x_RefDesign_STD.pdf)
+  - [SX1276 MCU Specification](http://www.semtech.com/apps/filedown/down.php?file=an1200_28_lorawan_mcu_specification_v2.pdf)
+
 
 ## Distributors of LoRa modules
 
