@@ -30,4 +30,10 @@
 
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
 
+## Distributors of LoRa modules
+
+### AliExpress
+
+* http://www.aliexpress.com/store/product/Long-distance-LoRa-SX1276-SX1278-RF-wireless-module-DRF1278F/1396782_2021201457.html
+
 <!-- EOF -->
