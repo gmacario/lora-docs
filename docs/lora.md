@@ -2,11 +2,11 @@
 
 * [LoRa(R) Alliance](https://www.lora-alliance.org/)
 
-### LoRa Products
+## LoRa Products
 
 * [LoRa Certified Products](https://www.lora-alliance.org/Products/Certified-Products)
 
-#### Adeunis RF
+### Adeunis RF
 
 * [LoRaWAN Demonstrator by Adeunis RF](http://www.adeunis-rf.com/en/products/lorawan-products/lorawan-demonstrator-by-adeunis-rf)
   - [Datasheet](http://www.adeunis-rf.com/media/downloads/172/trad_file/eng/arf_lorawan_demonstrator_868_data_sheet_v1-2_gb.pdf) (PDF, 1 page)
@@ -26,7 +26,7 @@
   - [Farnell italy](http://it.farnell.com/adeunis)
   - [Distrelec Italy](http://www.distrelec.it/manufacturer/adeunis/man_adeunis)
 
-#### Libelium
+### Libelium
 
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
 
