@@ -10,7 +10,7 @@ file: `LoRaWAN Specification 1R0.pdf` (PDF, 82 pages)
 
 The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
 
-### Case Studies
+## LoRa Case Studies
 
 * [TheThingsNetwork](https://thethingsnetwork.org/)
 
