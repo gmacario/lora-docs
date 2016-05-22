@@ -1,6 +1,20 @@
 # LoRa - Architecture, Specification and Modules
 
+## LoRa Alliance - General Information
+
 * [LoRa(R) Alliance](https://www.lora-alliance.org/)
+
+* [LoRa Alliance Board Officers](https://www.lora-alliance.org/Join/Become-a-Member)
+  - Geoff Mulligan - President - Proto6 Consulting
+  - Stan Moyer - Vice President - Inventures (same as Steve Crumb from GENIVI)
+  - ...
+ 
+* How to [Become a Member of the LoRa Alliance](https://www.lora-alliance.org/Join/Become-a-Member)
+  - Public member (free) have access to Released Deliverables
+  - Adopter ($3k): in addition, can access Final Deliveables + much more
+  - Institutions (Free, subject to BoD approval): in addition, can ...
+  - Contributor ($20k): in addition, have the right to initiate, participate in, vote and chair Work Groups
+  - Sponsor ($50k): in addition, can request a BoD seat + ...
 
 ## LoRa Specification
 
