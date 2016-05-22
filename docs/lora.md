@@ -132,4 +132,8 @@ https://www.cooking-hacks.com/
 * [LoRaWAN Radio Shield for Arduino - 868 MHz](https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-868-mhz) - Price: 90.00 EUR
 * [LoRaWAN Radio Shield for Arduino - 900/915 MHz](https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-900-915-mhz) - Price: 90.00 EUR
 
+Tutorials:
+
+* [LoRaWAN Technology for Arduino, Waspmote and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/lorawan-for-arduino-raspberry-pi-waspmote-868-900-915-433-mhz/) - incl. links to libraries and examples for Arduino, Waspmote and Raspberry Pi
+
 <!-- EOF -->
