@@ -59,6 +59,13 @@ The first LoRa Alliance certified radio module with a maximum output power of 19
 
 * http://www.wireless-solutions.de/products/radiomodules/im880b-l
 
+The chip may be evaluated with the [SK-iM880B - Long Range Radio Starter Kit](http://www.wireless-solutions.de/products/starterkits/sk-im880b.html)
+* [SK-iM880B Price: 249.00 EUR](http://webshop.imst.de/sk-im880b-starter-kit-for-im880b-l.html) excl 19% Tax
+
+Other interesting products:
+
+* [iU880A - Long Range USB Adapter](http://webshop.imst.de/iu880a-long-range-usb-adapter.html)
+
 ### Libelium
 
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
