@@ -88,6 +88,8 @@ Other interesting products:
   - [Waspmote Technical Guide](http://www.libelium.com/downloads/documentation/waspmote_technical_guide.pdf) (PDF, 173 pages)
   - [Wireless Sensor Networks with Waspmote and Meshlium](http://www.libelium.com/downloads/documentation/wsn-waspmote_and_meshlium_eng.pdf) (PDF, 22 pages)
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
+* [Libelium - Industrial control applications](https://www.libelium.com/top_50_iot_sensor_applications_ranking/#industrial_control)
+* [Libelium - Online order form](https://www.libelium.com/orderform/)
 
 ## LoRa RF Transceivers
 
