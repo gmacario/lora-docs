@@ -134,6 +134,7 @@ https://www.cooking-hacks.com/
 
 Tutorials:
 
+* [Extreme Range Links: LoRa 868 / 900MHz SX1272 LoRa module for Arduino Waspmote and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo/)
 * [LoRaWAN Technology for Arduino, Waspmote and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/lorawan-for-arduino-raspberry-pi-waspmote-868-900-915-433-mhz/) - incl. links to libraries and examples for Arduino, Waspmote and Raspberry Pi
 
 <!-- EOF -->
