@@ -127,6 +127,7 @@ Other interesting products:
 
 https://www.cooking-hacks.com/
 
+* [SX1272 LoRa module for Arduino, Raspberry Pi and Intel Galileo - 900 / 915 MHz [XBee Socket]](https://www.cooking-hacks.com/sx1272-lora-module-for-arduino-raspberry-pi-intel-galileo-900-mhz) - Price: 45.00 EUR
 * [LoRaWAN module for Arduino, Waspmote and Raspberry Pi - 868 MHz [XBee Socket]](https://www.cooking-hacks.com/lorawan-module-for-arduino-raspberry-pi-868-mhz-xbee-socket) - Price: 58.00 EUR
 * [LoRaWAN Radio Shield for Arduino - 433 MHz](https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-433-mhz) - Price: 90.00 EUR
 * [LoRaWAN Radio Shield for Arduino - 868 MHz](https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-868-mhz) - Price: 90.00 EUR
