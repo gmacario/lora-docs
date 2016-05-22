@@ -80,9 +80,13 @@ Other interesting products:
 
 * [iU880A - Long Range USB Adapter](http://webshop.imst.de/iu880a-long-range-usb-adapter.html)
 
-### Libelium
+### Libelium - Waspmote + LoRaWAN modules
 
-* [Libelium Waspmode Datasheet](http://www.libelium.com/downloads/documentation/waspmote_datasheet.pdf) (PDF, 29 pages)
+* [Waspmote - Open Source Sensor Node for the Internet of Things](http://www.libelium.com/products/waspmote/)
+  - [Waspmode Datasheet](http://www.libelium.com/downloads/documentation/waspmote_datasheet.pdf) (PDF, 29 pages)
+  - [Waspmote Quick Start Guide](http://www.libelium.com/downloads/documentation/quickstart_guide.pdf) (PDF, 19 pages pages)
+  - [Waspmote Technical Guide](http://www.libelium.com/downloads/documentation/waspmote_technical_guide.pdf) (PDF, 173 pages)
+  - [Wireless Sensor Networks with Waspmote and Meshlium](http://www.libelium.com/downloads/documentation/wsn-waspmote_and_meshlium_eng.pdf) (PDF, 22 pages)
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
 
 ## LoRa RF Transceivers
