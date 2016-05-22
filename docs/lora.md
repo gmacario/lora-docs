@@ -34,6 +34,12 @@ The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
   - [Farnell italy](http://it.farnell.com/adeunis)
   - [Distrelec Italy](http://www.distrelec.it/manufacturer/adeunis/man_adeunis)
 
+### IMST - iM880B-L
+
+The first LoRa Alliance certified radio module with a maximum output power of 19 dBm is the iM880B-L by IMST GmbH (source: [Wikipedia](https://en.wikipedia.org/wiki/LPWAN)).
+
+* http://www.wireless-solutions.de/products/radiomodules/im880b-l
+
 ### Libelium
 
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
@@ -62,10 +68,6 @@ The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
 * Application Notes
   - [SX127x Reference Design Overview](http://www.semtech.com/apps/filedown/down.php?file=AN1200.19_SX127x_RefDesign_STD.pdf)
   - [AN1200.28 - LoRaWAN MCU Specification and Requirements](http://www.semtech.com/apps/filedown/down.php?file=an1200_28_lorawan_mcu_specification_v2.pdf) (PDF, 3 pages)
-
-### Wireless Solutions - iM880B-L
-
-* http://www.wireless-solutions.de/products/radiomodules/im880b-l
 
 ## Distributors of LoRa modules
 
