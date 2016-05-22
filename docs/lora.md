@@ -82,6 +82,7 @@ Other interesting products:
 
 ### Libelium
 
+* [Libelium Waspmode Datasheet](http://www.libelium.com/downloads/documentation/waspmote_datasheet.pdf) (PDF, 29 pages)
 * [Libelium Adds LoRaWAN for Full Compatibility with Smart Cities Networks](http://www.libelium.com/lorawan-waspmote-868-europe-900-915-us-433-mhz-asia-lora) - Libelium PR, 2015-11-24
 
 ## LoRa RF Transceivers
