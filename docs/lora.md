@@ -123,4 +123,13 @@ Other interesting products:
 * http://www.aliexpress.com/store/product/New-2pcs-868MHz-4Km-100mW-sx1276-chip-Lora-long-range-RF-Wireless-transmitter-receiver-Module-LoRa1276/1087605_32338274153.html
 * http://www.aliexpress.com/store/product/Long-distance-LoRa-SX1276-SX1278-RF-wireless-module-DRF1278F/1396782_2021201457.html
 
+### Cooking Hacks
+
+https://www.cooking-hacks.com/
+
+* [LoRaWAN module for Arduino, Waspmote and Raspberry Pi - 868 MHz [XBee Socket]](https://www.cooking-hacks.com/lorawan-module-for-arduino-raspberry-pi-868-mhz-xbee-socket) - Price: 58.00 EUR
+* [LoRaWAN Radio Shield for Arduino - 433 MHz](https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-433-mhz) - Price: 90.00 EUR
+* [LoRaWAN Radio Shield for Arduino - 868 MHz](https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-868-mhz) - Price: 90.00 EUR
+* [LoRaWAN Radio Shield for Arduino - 900/915 MHz](https://www.cooking-hacks.com/lorawan-radio-shield-for-arduino-900-915-mhz) - Price: 90.00 EUR
+
 <!-- EOF -->
