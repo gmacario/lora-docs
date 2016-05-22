@@ -2,6 +2,14 @@
 
 * [LoRa(R) Alliance](https://www.lora-alliance.org/)
 
+## LoRa Specification
+
+This document describes the LoRaWAN™ network protocol. Send [an email to request LoRaWAN 1.0 Specification](https://www.lora-alliance.org/Contact/RequestSpecificationForm.aspx).
+
+file: `LoRaWAN Specification 1R0.pdf` (PDF, 82 pages)
+
+The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
+
 ## LoRa Certified Products
 
 * [LoRa Certified Products](https://www.lora-alliance.org/Products/Certified-Products)
