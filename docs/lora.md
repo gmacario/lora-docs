@@ -1,4 +1,4 @@
-# LoRa
+# LoRa - Architecture, Specification and Modules
 
 * [LoRa(R) Alliance](https://www.lora-alliance.org/)
 
@@ -9,6 +9,25 @@ This document describes the LoRaWAN™ network protocol. Send [an email to reque
 file: `LoRaWAN Specification 1R0.pdf` (PDF, 82 pages)
 
 The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
+
+### Case Studies
+
+* [TheThingsNetwork](https://thethingsnetwork.org/)
+
+## Resources
+
+* Architecture: TODO
+
+* Devices
+	- [LoRa MAC library in C](http://www.research.ibm.com/labs/zurich/ics/lrsc/lmic.html)
+	- [Semtech's endpoint](https://github.com/Lora-net/LoRaMac-node)
+
+* Gateways
+	- [A DIY low-cost LoRa gateway](http://cpham.perso.univ-pau.fr/LORA/RPIgateway.html)
+	- [Semtech's gateway](https://github.com/Lora-net/lora_gateway)
+
+* Network servers
+	- Open source LoRaWAN servers are a bit scarce.
 
 ## LoRa Certified Products
 
