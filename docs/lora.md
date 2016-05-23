@@ -93,6 +93,12 @@ Other interesting products:
 
 ## LoRa RF Transceivers
 
+### Microchip - RN2483
+
+* http://www.microchip.com/wwwproducts/en/RN2483
+* [RN2483 Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/50002346B.pdf) (PDF, 20 pages)
+* [Buy on-line: RN2483-I/RM101](http://www.microchipdirect.com/ProductDetails.aspx?Category=RN2483) (est. 9.61 EUR/ea per 1000+ pcs)
+
 ### Semtech - SX127x
 
 * http://www.semtech.com/wireless-rf/rf-transceivers/
