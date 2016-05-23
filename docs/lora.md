@@ -116,7 +116,7 @@ Other interesting products:
   - [SX127x Reference Design Overview](http://www.semtech.com/apps/filedown/down.php?file=AN1200.19_SX127x_RefDesign_STD.pdf)
   - [AN1200.28 - LoRaWAN MCU Specification and Requirements](http://www.semtech.com/apps/filedown/down.php?file=an1200_28_lorawan_mcu_specification_v2.pdf) (PDF, 3 pages)
 
-## Distributors of LoRa modules
+## Distributors of LoRa modules and chips
 
 ### AliExpress
 
@@ -137,5 +137,9 @@ Tutorials:
 
 * [Extreme Range Links: LoRa 868 / 900MHz SX1272 LoRa module for Arduino Waspmote and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo/)
 * [LoRaWAN Technology for Arduino, Waspmote and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/lorawan-for-arduino-raspberry-pi-waspmote-868-900-915-433-mhz/) - incl. links to libraries and examples for Arduino, Waspmote and Raspberry Pi
+
+### Taobao.com
+
+* [SX1301IMLTRC screen SX1301 package QFN64 brand good quality stock SEMTECH](https://world.taobao.com/item/524964459840.htm)
 
 <!-- EOF -->
