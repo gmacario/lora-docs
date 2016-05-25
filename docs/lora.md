@@ -30,7 +30,7 @@ The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
 
 ## Resources
 
-* Architecture: TODO
+* Architecture: See [lora-architecture.md](lora-architecture.md)
 
 * Devices
 	- [LoRa MAC library in C](http://www.research.ibm.com/labs/zurich/ics/lrsc/lmic.html)
