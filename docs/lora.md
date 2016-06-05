@@ -30,7 +30,7 @@ The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
 
 ## Resources
 
-* [What is LoRa?](https://t.co/OUUBEpV6Ta) (PDF)
+* [LoRaWAN: What is it?](https://t.co/OUUBEpV6Ta) - LoRa Alliance, 2015 (PDF, 20 pages)
 
 * Architecture: See [lora-architecture.md](lora-architecture.md)
 
