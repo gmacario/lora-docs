@@ -30,6 +30,8 @@ The Specification is Copyright (C) 2015, LoRA Alliance, Inc..
 
 ## Resources
 
+* [What is LoRa?](https://t.co/OUUBEpV6Ta) (PDF)
+
 * Architecture: See [lora-architecture.md](lora-architecture.md)
 
 * Devices
