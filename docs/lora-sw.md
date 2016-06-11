@@ -24,6 +24,10 @@ https://github.com/Lora-net/lora_gateway
 
 ## Other LoRa Software
 
+### thesolarnomad/resin-ttn-gateway
+
+https://github.com/thesolarnomad/resin-ttn-gateway
+
 ### mirakonta/lora_gateway
 
 This is a fork of [Lora-net/lora_gateway](https://github.com/Lora-net/lora_gateway) with the needed modifications to be able to use lora_gateway with a Multitech MTAC-LORA (MultiConnect mCard) board instead of a IoT Starter Kit platform.
