@@ -24,9 +24,9 @@ https://github.com/Lora-net/lora_gateway
 
 ## Other LoRa Software
 
-### tftelkamp/single_chan_pkt_fwd
+### Single Channel LoRaWAN Gateway
 
-https://github.com/tftelkamp/single_chan_pkt_fwd
+See https://github.com/tftelkamp/single_chan_pkt_fwd
 
 ### thesolarnomad/resin-ttn-gateway
 
