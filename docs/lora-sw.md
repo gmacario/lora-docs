@@ -28,7 +28,9 @@ https://github.com/Lora-net/lora_gateway
 
 See https://github.com/tftelkamp/single_chan_pkt_fwd
 
-### thesolarnomad/resin-ttn-gateway
+### Resin.io The Things Network Gateway
+
+This uses a fork of the [Single Channel LoRaWAN Gateway](https://github.com/tftelkamp/single_chan_pkt_fwd) on a Raspberry Pi [as described by Dragino](http://www.instructables.com/id/Use-Lora-Shield-and-RPi-to-Build-a-LoRaWAN-Gateway/) on [resin.io](http://resin.io/).
 
 https://github.com/thesolarnomad/resin-ttn-gateway
 
