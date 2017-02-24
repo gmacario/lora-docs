@@ -2,11 +2,12 @@
 
 [![Join the chat at https://gitter.im/gmacario/lora-shield](https://badges.gitter.im/gmacario/lora-shield.svg)](https://gitter.im/gmacario/lora-shield?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[LoRa](https://www.lora-alliance.org/)(R) shield for [Arduino](https://www.arduino.cc/) / [UDOO](http://www.udoo.org/).
+Documentation and support software for experimenting with [LoRa and LoRaWAN](https://www.lora-alliance.org/)(R).
 
 ### See also
 
-* [lora-shield Documentation](docs)
+* [LoRa and LoRaWAN documentation](docs)
+* [OpenSource LoRa shield for Arduino and UDOO Neo](https://github.com/Muwattalli/LoRaShield)
 
 ### Copyright and Licensing
 
