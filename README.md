@@ -10,7 +10,7 @@
 
 ### Copyright and Licensing
 
-Copyright (C) 2016, [Gianpaolo Macario](https://gmacario.github.io/).
+Copyright (C) 2016-2017, [Gianpaolo Macario](https://gmacario.github.io/).
 
 lora-shield documentation is licensed under the Creative Commons License Attribution-ShareAlike 4.0 International.
 
