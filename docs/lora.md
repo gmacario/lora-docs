@@ -153,4 +153,7 @@ Tutorials:
 
 * [SX1301IMLTRC screen SX1301 package QFN64 brand good quality stock SEMTECH](https://world.taobao.com/item/524964459840.htm)
 
+### Techship
+
+* <https://techship.com/products/category/kits-and-solutions/>
 <!-- EOF -->
