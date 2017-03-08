@@ -12,6 +12,6 @@
 
 # Misc links
 
-* <http://internetofthingsagenda.techtarget.com/feature/Is-LoRa-technology-the-wireless-standard-IoT-has-been-waiting-for>
+* [Is LoRa technology the wireless standard IoT has been waiting for?](http://internetofthingsagenda.techtarget.com/feature/Is-LoRa-technology-the-wireless-standard-IoT-has-been-waiting-for) - Steve Zurier on IoT Agenda, JAN-2017
 
 <!-- EOF -->
