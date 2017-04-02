@@ -100,6 +100,15 @@ Other interesting products:
   - [Order Marvin LoRa Development Board](https://www.conrad.nl/nl/marvin-lora-development-board-for-iot-prototypingboard-48158.html) (84.70 EUR from Conrad NL)
   - [Marvin Kickstarter project was funded in December 2016](https://www.kickstarter.com/projects/688158475/marvin-the-lora-development-board/)
 
+### Pycom: LoPy - the LoRa, WiFi and Bluetooth IoT development platform
+
+* Pycom webshop: <https://www.pycom.io/>
+* Company based in Amsterdam, Netherlands
+* [LoPy](https://www.pycom.io/wp-content/uploads/2017/01/lopySpecsheetGraffiti2017newR.pdf) is a MicroPython triple-network dev platform which doubles up as a LoRa Nano gateway. Arduino IDE compatible
+* LoPy can be used as a LoRa Nano Gateway
+* [LoPy Kickstarter project was funded in March 2016](https://www.kickstarter.com/projects/1795343078/lopy-the-lora-wifi-and-bluetooth-iot-development-p)
+
+
 ## LoRa RF Transceivers
 
 ### Microchip - RN2483
