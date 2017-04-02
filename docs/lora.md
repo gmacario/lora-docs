@@ -11,7 +11,7 @@
  
 * How to [Become a Member of the LoRa Alliance](https://www.lora-alliance.org/Join/Become-a-Member)
   - Public member (free) have access to Released Deliverables
-  - Adopter ($3k): in addition, can access Final Deliveables + much more
+  - Adopter ($3k): in addition, can access Final Deliverables + much more
   - Institutions (Free, subject to BoD approval): in addition, can ...
   - Contributor ($20k): in addition, have the right to initiate, participate in, vote and chair Work Groups
   - Sponsor ($50k): in addition, can request a BoD seat + ...
@@ -93,6 +93,13 @@ Other interesting products:
 * [Libelium - Industrial control applications](https://www.libelium.com/top_50_iot_sensor_applications_ranking/#industrial_control)
 * [Libelium - Online order form](https://www.libelium.com/orderform/)
 
+### Marvin
+
+* [Marvin](http://www.rdmmakerspace.nl/Marvin/) is a development board based on the Arduino Leonardo and is grove sensor compatible.
+  - [Marvin workshop material](https://drive.google.com/drive/folders/0B3qKsQNZF5ygbldQMzRFTnA5RzA)
+  - [Order Marvin LoRa Development Board](https://www.conrad.nl/nl/marvin-lora-development-board-for-iot-prototypingboard-48158.html) (84.70 EUR from Conrad NL)
+  - [Marvin Kickstarter project was funded in December 2016](https://www.kickstarter.com/projects/688158475/marvin-the-lora-development-board/)
+
 ## LoRa RF Transceivers
 
 ### Microchip - RN2483
@@ -107,7 +114,7 @@ NOTE: LoRaWAN device!
 
 * http://www.semtech.com/wireless-rf/rf-transceivers/
 
-* [Wirless RF Solutions Guide](http://www.semtech.com/images/mediacenter/collateral/ism_sg.pdf) (PDF, 8 pages)
+* [Wireless RF Solutions Guide](http://www.semtech.com/images/mediacenter/collateral/ism_sg.pdf) (PDF, 8 pages)
 
 * RF Transceiver Related Articles
   - [Making the Right Trade-offs for Sensor Networks](http://www.semtech.com/rf-transceivers/right-tradeoffs-sensor-networks.pdf) - Hardy Schmidbauer, Semtech Corporation (PDF, 7 pages)
