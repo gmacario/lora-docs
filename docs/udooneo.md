@@ -9,16 +9,16 @@
 From http://www.udoo.org/forum/threads/how-to-program-the-m4-without-the-arduino-abstraction.4210
 
 >> As the title say, How to program the m4 without the arduino abstraction?
-
+>
 > One way is to use [FreeRTOS](http://www.nxp.com/products/microcontrollers-and-processors/arm-processors/i.mx-applications-processors/i.mx-6-processors/i.mx6qp/i.mx-6-series-software-and-development-tool-resources:IMX6_SW); Download the zip and look for the documentation.
-
+>
 >> What is the .fw format?
-
+>
 > Binary currently is the current method; need to use udooneo-m4uploader copy binary into memory and start the M4.
 > http://www.udoo.org/forum/threads/how-to-use-m4-processor.3353/#post-16364
-
+>
 >> I know .fw is some sort of binary and i can use udooneo-m4uploader to upload it, but how to generate it? Is .fw a renamed .bin? a renamed .elf? Absolutely no documentation at all on the m4 coprocessor for udoo.
-
+>
 > It is binary, just rename.
 
 <!-- EOF -->
