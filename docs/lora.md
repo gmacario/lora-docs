@@ -105,8 +105,9 @@ Other interesting products:
 * Company based in Amsterdam, Netherlands
 * Pycom webshop: <https://www.pycom.io/>
 * [LoPy](https://www.pycom.io/wp-content/uploads/2017/01/lopySpecsheetGraffiti2017newR.pdf) is a MicroPython triple-network dev platform which doubles up as a **LoRa Nano gateway**. Arduino IDE compatible
-* LoPy images and pinouts: <https://github.com/pycom/LoPy>
-* [LoPy Kickstarter project](https://www.kickstarter.com/projects/1795343078/lopy-the-lora-wifi-and-bluetooth-iot-development-p) was funded in March 2016
+  - LoPy images and pinouts: <https://github.com/pycom/LoPy>
+  - LoPy Quickstart guide: <https://docs.pycom.io/pycom_esp32/pycom_esp32/getstarted.html>
+  - [LoPy Kickstarter project](https://www.kickstarter.com/projects/1795343078/lopy-the-lora-wifi-and-bluetooth-iot-development-p) was funded in March 2016
 * The [L01 OEM](https://www.pycom.io/product/l01-oem-module/) module is priced @14.95 EUR for 100 units
 
 
