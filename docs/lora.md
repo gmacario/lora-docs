@@ -96,17 +96,18 @@ Other interesting products:
 ### Marvin
 
 * [Marvin](http://www.rdmmakerspace.nl/Marvin/) is a development board based on the Arduino Leonardo and is grove sensor compatible.
-  - [Marvin workshop material](https://drive.google.com/drive/folders/0B3qKsQNZF5ygbldQMzRFTnA5RzA)
-  - [Order Marvin LoRa Development Board](https://www.conrad.nl/nl/marvin-lora-development-board-for-iot-prototypingboard-48158.html) (84.70 EUR from Conrad NL)
-  - [Marvin Kickstarter project was funded in December 2016](https://www.kickstarter.com/projects/688158475/marvin-the-lora-development-board/)
+* [Marvin workshop material](https://drive.google.com/drive/folders/0B3qKsQNZF5ygbldQMzRFTnA5RzA)
+* [Order Marvin LoRa Development Board](https://www.conrad.nl/nl/marvin-lora-development-board-for-iot-prototypingboard-48158.html) (84.70 EUR from Conrad NL)
+* [Marvin Kickstarter project](https://www.kickstarter.com/projects/688158475/marvin-the-lora-development-board/) was funded in December 2016
 
 ### Pycom: LoPy - the LoRa, WiFi and Bluetooth IoT development platform
 
-* Pycom webshop: <https://www.pycom.io/>
 * Company based in Amsterdam, Netherlands
+* Pycom webshop: <https://www.pycom.io/>
 * [LoPy](https://www.pycom.io/wp-content/uploads/2017/01/lopySpecsheetGraffiti2017newR.pdf) is a MicroPython triple-network dev platform which doubles up as a **LoRa Nano gateway**. Arduino IDE compatible
 * LoPy images and pinouts: <https://github.com/pycom/LoPy>
-* [LoPy Kickstarter project was funded in March 2016](https://www.kickstarter.com/projects/1795343078/lopy-the-lora-wifi-and-bluetooth-iot-development-p)
+* [LoPy Kickstarter project](https://www.kickstarter.com/projects/1795343078/lopy-the-lora-wifi-and-bluetooth-iot-development-p) was funded in March 2016
+* The [L01 OEM](https://www.pycom.io/product/l01-oem-module/) module is priced @14.95 EUR for 100 units
 
 
 ## LoRa RF Transceivers
