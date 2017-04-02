@@ -104,8 +104,8 @@ Other interesting products:
 
 * Pycom webshop: <https://www.pycom.io/>
 * Company based in Amsterdam, Netherlands
-* [LoPy](https://www.pycom.io/wp-content/uploads/2017/01/lopySpecsheetGraffiti2017newR.pdf) is a MicroPython triple-network dev platform which doubles up as a LoRa Nano gateway. Arduino IDE compatible
-* LoPy can be used as a LoRa Nano Gateway
+* [LoPy](https://www.pycom.io/wp-content/uploads/2017/01/lopySpecsheetGraffiti2017newR.pdf) is a MicroPython triple-network dev platform which doubles up as a **LoRa Nano gateway**. Arduino IDE compatible
+* LoPy images and pinouts: <https://github.com/pycom/LoPy>
 * [LoPy Kickstarter project was funded in March 2016](https://www.kickstarter.com/projects/1795343078/lopy-the-lora-wifi-and-bluetooth-iot-development-p)
 
 
