@@ -144,6 +144,17 @@ NOTE: LoRaWAN device!
   - [SX127x Reference Design Overview](http://www.semtech.com/apps/filedown/down.php?file=AN1200.19_SX127x_RefDesign_STD.pdf)
   - [AN1200.28 - LoRaWAN MCU Specification and Requirements](http://www.semtech.com/apps/filedown/down.php?file=an1200_28_lorawan_mcu_specification_v2.pdf) (PDF, 3 pages)
 
+### Semtech - SX1301
+
+The SX1301 digital baseband chip is a massive digital signal processing engine specifically designed to offer breakthrough gateway
+capabilities in the ISM bands worldwide. It integrates the **LoRa concentrator IP**.
+
+The LoRa concentrator is a multi-channel high performance transmitter/receiver designed to simultaneously receive several LoRa packets
+using random spreading factors on random channels. Its goal is to enable robust connection between a central wireless data
+concentrator and a massive amount of wireless end-points spread over a very wide range of distances.
+
+* SX1301 Datasheet: <http://www.semtech.com/images/datasheet/sx1301.pdf> (PDF, 40 pages)
+
 ## Distributors of LoRa modules and chips
 
 ### AliExpress
