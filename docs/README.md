@@ -12,6 +12,7 @@
 
 # Misc links
 
+* [LoRaWAN: coming to a city near you](http://embedded-computing.com/32647-lorawan-coming-to-a-city-near-you/) - Embedded Computing Design, 2017-06-26
 * [Is LoRa technology the wireless standard IoT has been waiting for?](http://internetofthingsagenda.techtarget.com/feature/Is-LoRa-technology-the-wireless-standard-IoT-has-been-waiting-for) - Steve Zurier on IoT Agenda, JAN-2017
 
 <!-- EOF -->
